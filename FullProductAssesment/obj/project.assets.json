@@ -10609,11 +10609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\malie\\source\\repos\\FullProductAssesment\\FullProductAssesment\\FullProductAssesment.csproj",
+      "projectUniqueName": "C:\\Users\\malie\\source\\repos\\FullProductAssesment\\AssesmentAPIandDesktopManagementTool\\FullProductAssesment\\FullProductAssesment.csproj",
       "projectName": "FullProductAssesment",
-      "projectPath": "C:\\Users\\malie\\source\\repos\\FullProductAssesment\\FullProductAssesment\\FullProductAssesment.csproj",
+      "projectPath": "C:\\Users\\malie\\source\\repos\\FullProductAssesment\\AssesmentAPIandDesktopManagementTool\\FullProductAssesment\\FullProductAssesment.csproj",
       "packagesPath": "C:\\Users\\malie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malie\\source\\repos\\FullProductAssesment\\FullProductAssesment\\obj\\",
+      "outputPath": "C:\\Users\\malie\\source\\repos\\FullProductAssesment\\AssesmentAPIandDesktopManagementTool\\FullProductAssesment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

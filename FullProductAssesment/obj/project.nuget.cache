@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NF0siktcWP8UTNBpWtLhufrnCdJicenrLX2aUXnZgo4bJHbBhhyhFUW9WqTy1WAmDF9G0DyqJ6PoPuwlN338zA==",
+  "dgSpecHash": "uz9+ehwcxzlp9FBkKPl8di+zqyvYftXt9QTMg8bH8CWBr5mfOczO3nUEgGl48Jzq4/zvdE22L2WAqv8lqfTkqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\malie\\source\\repos\\FullProductAssesment\\FullProductAssesment\\FullProductAssesment.csproj",
+  "projectFilePath": "C:\\Users\\malie\\source\\repos\\FullProductAssesment\\AssesmentAPIandDesktopManagementTool\\FullProductAssesment\\FullProductAssesment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\malie\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\malie\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -135,29 +135,34 @@
             // 
             this.clmStoreId.HeaderText = "Id";
             this.clmStoreId.Name = "clmStoreId";
+            this.clmStoreId.ReadOnly = true;
             this.clmStoreId.Visible = false;
             // 
             // clmStoreName
             // 
             this.clmStoreName.HeaderText = "Name";
             this.clmStoreName.Name = "clmStoreName";
+            this.clmStoreName.ReadOnly = true;
             // 
             // clmAddress
             // 
             this.clmAddress.FillWeight = 200F;
             this.clmAddress.HeaderText = "Address";
             this.clmAddress.Name = "clmAddress";
+            this.clmAddress.ReadOnly = true;
             this.clmAddress.Width = 200;
             // 
             // clmTelephone
             // 
             this.clmTelephone.HeaderText = "Telephone";
             this.clmTelephone.Name = "clmTelephone";
+            this.clmTelephone.ReadOnly = true;
             // 
             // clmActive
             // 
             this.clmActive.HeaderText = "Active";
             this.clmActive.Name = "clmActive";
+            this.clmActive.ReadOnly = true;
             // 
             // panel5
             // 
